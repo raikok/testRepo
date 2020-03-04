@@ -20,6 +20,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -43,11 +44,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583270237774</updated>
-      <workItem from="1583270240835" duration="617000" />
+      <workItem from="1583270240835" duration="1235000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="922" y="373" key="FileChooserDialogImpl" timestamp="1583271951626">
+      <screen x="89" y="0" width="2105" height="1234" />
+    </state>
+    <state x="922" y="373" key="FileChooserDialogImpl/89.0.2105.1234/-1920.383.1920.1040@89.0.2105.1234" timestamp="1583271951626" />
+    <state x="569" y="238" key="new project wizard" timestamp="1583271943031">
+      <screen x="89" y="0" width="2105" height="1234" />
+    </state>
+    <state x="569" y="238" key="new project wizard/89.0.2105.1234/-1920.383.1920.1040@89.0.2105.1234" timestamp="1583271943031" />
   </component>
 </project>
